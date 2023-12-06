@@ -1,0 +1,15 @@
+{
+    "name": "Template plugins",
+    "description": "Custom templates plugin",
+    "version": "1.0.0",
+    "author": "Rohan Saini",
+    "repository": "https://github.com/Rohansaini1512/monokle-template-plugin",
+    "monoklePlugin":{
+        "modules": [
+            {
+                "type": "template",
+                "path": "basic-pod-template"
+            }
+        ]
+    }
+}
